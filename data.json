@@ -1,0 +1,24 @@
+{
+  "categoryapi": [
+    {
+      "id": "f821",
+      "category": "banana"
+    },
+    {
+      "id": "3aa9",
+      "category": "apple"
+    },
+    {
+      "id": "3bac",
+      "category": "mango"
+    },
+    {
+      "id": "a2d2",
+      "category": "grapes"
+    }
+  ],
+  "productapi": [],
+  "cartapi": [],
+  "sellerapi": [],
+  "orderapi": []
+}
